@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rohitd4007/basket-app/static/css/main.5412626f.chunk.css",
+    "main.js": "/rohitd4007/basket-app/static/js/main.fd332ca0.chunk.js",
+    "main.js.map": "/rohitd4007/basket-app/static/js/main.fd332ca0.chunk.js.map",
+    "runtime-main.js": "/rohitd4007/basket-app/static/js/runtime-main.f9f00434.js",
+    "runtime-main.js.map": "/rohitd4007/basket-app/static/js/runtime-main.f9f00434.js.map",
+    "static/js/2.314a68ba.chunk.js": "/rohitd4007/basket-app/static/js/2.314a68ba.chunk.js",
+    "static/js/2.314a68ba.chunk.js.map": "/rohitd4007/basket-app/static/js/2.314a68ba.chunk.js.map",
+    "index.html": "/rohitd4007/basket-app/index.html",
+    "static/css/main.5412626f.chunk.css.map": "/rohitd4007/basket-app/static/css/main.5412626f.chunk.css.map",
+    "static/js/2.314a68ba.chunk.js.LICENSE.txt": "/rohitd4007/basket-app/static/js/2.314a68ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9f00434.js",
+    "static/js/2.314a68ba.chunk.js",
+    "static/css/main.5412626f.chunk.css",
+    "static/js/main.fd332ca0.chunk.js"
+  ]
+}

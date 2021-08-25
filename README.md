@@ -1,6 +1,6 @@
 ## this repositories contains simple project to add groceries items to cart
 
-## it contain react and redux
+## it contain react and redux features
 
 # How to Setup the Project 
 
